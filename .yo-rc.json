@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "uaa",
+    "packageName": "com.dbs.uaa",
+    "packageFolder": "com/dbs/uaa",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OWRkYTY4NjZkMDZjN2IwYzk5ZmM0MGE4Mjg5Njk3OGYxNGFmZDNjNzkyMDY1N2VjNGQ4OTc2MTIzNjI4MWI5YjViMzRkZjIzODJiM2FjZWVmYjE5ZGJlZGMzY2E2ODRiN2Y0NjRlMzc0ZWVkMGJjYWJhMzNjNmFjODdkMDA0NGI=",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "rajeevjha2k4",
+  "repository-name": "dbsweb-uaa-application"
+}
